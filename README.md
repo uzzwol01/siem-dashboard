@@ -68,8 +68,7 @@ siem-dashboard/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/siem-dashboard.git
-cd siem-dashboard
+git clone https://github.com/uzzwol01/siem-dashboard.git
 
 # Install dependencies
 pip install flask
